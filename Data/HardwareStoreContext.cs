@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using HardwareStore.Models;
 using HardwareStore_Application.Models;
 
